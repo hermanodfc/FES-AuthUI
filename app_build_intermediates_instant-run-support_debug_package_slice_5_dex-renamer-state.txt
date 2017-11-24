@@ -1,0 +1,4 @@
+#Thu Nov 23 22:41:44 GFT 2017
+base.0=C\:\\Users\\herma\\AndroidStudioProjects\\FirebaseUI-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+renamed.0=classes.dex
+file.0=C\:\\Users\\herma\\AndroidStudioProjects\\FirebaseUI-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes.dex

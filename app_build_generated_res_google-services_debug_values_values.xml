@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">420407481208-lh54n9h89hpt5n0darr4hp0hal4sim3c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fes-upkeep.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">420407481208</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWHBxBC1d3PId_JHLdGNKvvUFNuK6QGH0</string>
+    <string name="google_app_id" translatable="false">1:420407481208:android:91eecf4730fc920b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWHBxBC1d3PId_JHLdGNKvvUFNuK6QGH0</string>
+    <string name="google_storage_bucket" translatable="false">fes-upkeep.appspot.com</string>
+    <string name="project_id" translatable="false">fes-upkeep</string>
+</resources>
